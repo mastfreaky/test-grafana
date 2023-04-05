@@ -1,0 +1,42 @@
+[
+	{
+		"agentName": "John Smith",
+		"productivity": "90%"
+	},
+	{
+		"agentName": "Jane Doe",
+		"productivity": "85%"
+	},
+	{
+		"agentName": "Bob Johnson",
+		"productivity": "80%"
+	},
+	{
+		"agentName": "Emily Lee",
+		"productivity": "78%"
+	},
+	{
+		"agentName": "Michael Kim",
+		"productivity": "75%"
+	},
+	{
+		"agentName": "Amanda Chen",
+		"productivity": "70%"
+	},
+	{
+		"agentName": "David Lee",
+		"productivity": "68%"
+	},
+	{
+		"agentName": "Rachel Smith",
+		"productivity": "65%"
+	},
+	{
+		"agentName": "Thomas Wang",
+		"productivity": "60%"
+	},
+	{
+		"agentName": "Samantha Brown",
+		"productivity": "55%"
+	}
+]
